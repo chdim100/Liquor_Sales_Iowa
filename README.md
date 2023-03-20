@@ -1,6 +1,9 @@
 Python based processing of a dataset which describes the Liquor Sales in Iowa between 2016-2019. Seaborn and Tableau are exploited for the visualization process. More info and step-to-step description can be found in the Final_Assignement_Python_Report.pdf file. The whole repository demonstrates an educational purpose assignment which can be found in https://github.com/Workearly/Final-Assignment
 
-------------------------COPIED FROM ORIGINAL ASSIGNMENT REPO--------------------------
+To view the Tableau dashboard link to:
+https://public.tableau.com/shared/2JQPDQ9NY?:display_count=n&:origin=viz_share_link
+
+------------------------THE FOLLOWING INSTRUCTIONS ARE COPIED FROM THE ORIGINAL ASSIGNMENT REPO--------------------------
 # Final-Assignment
 This project is designed to simulate a full workflow of a Data Analyst from getting data off the Database to manipulate it with the use of Python and Pandas module to present it through matplotlib module or Tableau.
 
